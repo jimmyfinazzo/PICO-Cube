@@ -1,6 +1,6 @@
 # PICO-Cube
 A PICO-8 theme for muOS.
-The theme features an animated background, custom glyphs, a boatload of PICO-8 graphics and sounds, and a great background music track.
+The theme features an animated background, a boatload of PICO-8 graphics and sounds, and great background music tracks.
 
 
 ![1](https://github.com/user-attachments/assets/ced21905-66dd-417d-842f-856e71ff96cf)
@@ -8,5 +8,5 @@ The theme features an animated background, custom glyphs, a boatload of PICO-8 g
 ![4](https://github.com/user-attachments/assets/5b87502d-3bb3-4a5b-acae-9c50dcd9c61d)
 
 
-The theme was designed for 720x720 resolution, but is compatible with 640x480 & 720x480 devices as well.
+The theme was designed for 720x720 resolution, but is compatible with 640x480 & 720x480 devices as well. HDMI support is included as well.
 To use the theme, download the latest version from the "Releases" tab and drop it in the "theme" folder on your SD card. Then, go to Settings -> Customization -> Themes and select it from the list.
